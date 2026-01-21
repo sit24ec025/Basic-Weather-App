@@ -2,7 +2,7 @@
 🛠️ Technologies Used
 Python
 Tkinter (for GUI)
-✨ Features
+✨ Features 
 User can enter city name
 Displays current weather (demo-based / sample data)
 Instant result on button click
